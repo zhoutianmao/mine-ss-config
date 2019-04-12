@@ -1,1 +1,1 @@
-# mine-ss-config
+# mine-ss-config  mine项目的配置中心
